@@ -1,0 +1,25 @@
+{
+    "name": "Amy Nichols",
+    "age": 72,
+    "address": {
+        "street": "Shane Isle",
+        "city": "Annaborough",
+        "state": "Louisiana",
+        "zip": "27641"
+    },
+    "contact": {
+        "phone": "495.241.1488",
+        "servicePhone": "800232787"
+    },
+    "birthday": "1953-18-03",
+    "ip": "63.251.43.192",
+    "foo": "bar",
+    "profile": {
+        "about": "It tonight lot cause weight line. Up third through room soon. Leg effect class already.",
+        "bio": "Thing quickly whom activity third fund. True speech dog as your.\nMarket out feel cup student. Reach soldier write building girl focus important. Wish value themselves like."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
