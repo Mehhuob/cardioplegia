@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Williams MD",
+    "age": 95,
+    "address": {
+        "street": "Walsh Rapid",
+        "city": "Davidside",
+        "state": "Arizona",
+        "zip": "10653"
+    },
+    "contact": {
+        "phone": "863-691-9776",
+        "servicePhone": "800757667"
+    },
+    "birthday": "1930-22-06",
+    "ip": "199.42.196.146",
+    "foo": "bar",
+    "profile": {
+        "about": "When team everyone style letter sell four six. Happy page baby manage difference.\nMuch read society region physical job responsibility. Focus identify go school TV hand.",
+        "bio": "Both too center threat huge building report. Listen professional much job generation finish staff."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
