@@ -1,0 +1,25 @@
+{
+    "name": "Frederick Ramos",
+    "age": 115,
+    "address": {
+        "street": "Christopher Forge",
+        "city": "Hansonmouth",
+        "state": "Minnesota",
+        "zip": "89475"
+    },
+    "contact": {
+        "phone": "001-484-970-6633x8289",
+        "servicePhone": "800898325"
+    },
+    "birthday": "1910-04-01",
+    "ip": "160.203.232.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority race relate box begin machine available quickly. Set race generation kitchen.",
+        "bio": "Politics note appear performance place air. Performance long information forward each of. Would form agree wrong remain change."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
