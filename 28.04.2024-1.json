@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Lopez",
+    "age": 12,
+    "address": {
+        "street": "Berry Circle",
+        "city": "East Tiffanyton",
+        "state": "Louisiana",
+        "zip": "26315"
+    },
+    "contact": {
+        "phone": "209-956-9361x586",
+        "servicePhone": "800540189"
+    },
+    "birthday": "2013-02-10",
+    "ip": "60.21.97.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Tell room especially wife as society. Price finally success project.\nReason no evidence loss.\nLay scene certain. Camera stop kind moment value lose Mr weight. Paper like media edge.",
+        "bio": "Note star choose your I. Particularly seven challenge wish. Third energy star. Six possible agree.\nGo skin energy woman. Argue enjoy thing individual finally trade."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
