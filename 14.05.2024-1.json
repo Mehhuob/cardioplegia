@@ -1,0 +1,25 @@
+{
+    "name": "William Chambers",
+    "age": 50,
+    "address": {
+        "street": "Joe Corners",
+        "city": "South Robin",
+        "state": "Montana",
+        "zip": "09139"
+    },
+    "contact": {
+        "phone": "+1-847-633-3451x1262",
+        "servicePhone": "800227394"
+    },
+    "birthday": "1975-29-11",
+    "ip": "172.161.63.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Cost improve trade me example early evidence. Direction simple they begin. Instead whole money go vote.\nPlay mention lead parent likely prove. Especially join everything cultural level if economic.",
+        "bio": "Century worker own let. Save any wonder.\nMilitary find dream she ahead morning young service. Must arm leave show green attention. After management truth scene."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
