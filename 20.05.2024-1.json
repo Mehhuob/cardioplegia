@@ -1,0 +1,25 @@
+{
+    "name": "Erin Singh",
+    "age": 71,
+    "address": {
+        "street": "Small Greens",
+        "city": "Martinland",
+        "state": "Utah",
+        "zip": "43748"
+    },
+    "contact": {
+        "phone": "4514024654",
+        "servicePhone": "800894565"
+    },
+    "birthday": "1954-26-04",
+    "ip": "211.38.128.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Eight stock hear. Nature however the radio pattern. Site week past voice now agency.",
+        "bio": "Church under throw party spring. The because wrong edge stop. Upon recent ok final man.\nWar country outside focus window sport next old. Speak deal pattern character bad office."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
