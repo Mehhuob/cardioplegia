@@ -1,0 +1,25 @@
+{
+    "name": "Jay Sutton",
+    "age": 92,
+    "address": {
+        "street": "Ernest Crest",
+        "city": "Rhondachester",
+        "state": "North Carolina",
+        "zip": "54460"
+    },
+    "contact": {
+        "phone": "001-560-739-6811",
+        "servicePhone": "800349294"
+    },
+    "birthday": "1933-18-08",
+    "ip": "123.112.79.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital no boy civil other newspaper. Our bit particular. Boy effort employee mother.\nAct success with happy.\nBeautiful argue tend smile. Paper sister base hear.\nForward cup late entire education.",
+        "bio": "Garden too financial possible seem his. Leg concern note strong reason bag ready. Detail too before wrong."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
