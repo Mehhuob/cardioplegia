@@ -1,0 +1,25 @@
+{
+    "name": "Lucas Mccarthy",
+    "age": 71,
+    "address": {
+        "street": "Christina Mall",
+        "city": "Perezborough",
+        "state": "Rhode Island",
+        "zip": "75389"
+    },
+    "contact": {
+        "phone": "+1-598-838-4781x9472",
+        "servicePhone": "800608730"
+    },
+    "birthday": "1954-18-02",
+    "ip": "97.192.71.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Father society world. All on message police learn. Save Mr control step.\nAs speak TV method wide voice almost cut. Join new hospital figure in so part information. American study carry amount.",
+        "bio": "Professional collection crime hand determine friend nor. Compare itself beautiful source name suddenly once set. Minute material play."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
