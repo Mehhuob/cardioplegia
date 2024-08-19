@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Jones",
+    "age": 37,
+    "address": {
+        "street": "Catherine Fork",
+        "city": "Kerrville",
+        "state": "Wyoming",
+        "zip": "85395"
+    },
+    "contact": {
+        "phone": "001-498-782-8012",
+        "servicePhone": "800503494"
+    },
+    "birthday": "1988-31-01",
+    "ip": "69.226.96.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch grow drive Republican. It throw piece southern line. Free start president like color.\nTask difference say.\nHuge money into ten. Challenge follow suggest wide appear.",
+        "bio": "Support only science should. Campaign heavy fear cut indeed wall near. Film send weight deal. Professional spend believe."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
