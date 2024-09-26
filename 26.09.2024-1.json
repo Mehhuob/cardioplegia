@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey Martin",
+    "age": 77,
+    "address": {
+        "street": "Daniels Flats",
+        "city": "Williamsburgh",
+        "state": "Vermont",
+        "zip": "30246"
+    },
+    "contact": {
+        "phone": "001-248-667-4566x3832",
+        "servicePhone": "800916422"
+    },
+    "birthday": "1948-19-12",
+    "ip": "137.28.237.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring attack head piece into sing ok read. Stage herself student activity claim. Seek decade measure red paper.",
+        "bio": "Century safe order on three successful speak.\nKid how use drop best one those. Find hotel picture professional. Four buy national fight author mother. Experience computer service education take."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
