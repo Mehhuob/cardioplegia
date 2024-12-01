@@ -1,0 +1,25 @@
+{
+    "name": "Anna Bates",
+    "age": 78,
+    "address": {
+        "street": "Smith Park",
+        "city": "Maryville",
+        "state": "Indiana",
+        "zip": "92760"
+    },
+    "contact": {
+        "phone": "+1-866-782-0717x21446",
+        "servicePhone": "800455081"
+    },
+    "birthday": "1947-14-06",
+    "ip": "138.168.145.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax moment station position exactly. Song may opportunity environmental training.\nPeople score allow control language appear. Clear protect lead this. Power wait state less still.",
+        "bio": "Mission image magazine power phone environment. Without special of deal season role.\nExplain physical plant next movie read. Score cause significant."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
