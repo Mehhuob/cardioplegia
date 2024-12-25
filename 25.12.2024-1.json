@@ -1,0 +1,25 @@
+{
+    "name": "David Walton",
+    "age": 26,
+    "address": {
+        "street": "Tiffany Lane",
+        "city": "Davidsontown",
+        "state": "Vermont",
+        "zip": "95597"
+    },
+    "contact": {
+        "phone": "740-929-2592x680",
+        "servicePhone": "800828479"
+    },
+    "birthday": "1999-10-11",
+    "ip": "215.130.167.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Want girl man agreement service section. By all wish both hold. Expect first dinner seem.",
+        "bio": "Low line reach subject across space. Statement either whole act common here TV.\nAlone happen play foot partner range. Medical national possible of time husband ball."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
